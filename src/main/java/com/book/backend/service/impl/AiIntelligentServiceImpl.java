@@ -59,7 +59,7 @@ public class AiIntelligentServiceImpl extends ServiceImpl<AiIntelligentMapper, A
      */
     SparkClient sparkClient = new SparkClient();
     // 调用自己的密钥
-    // todo 图书管理系统 1.2 版本设置认证信息 讯飞星火
+    // todo 设置认证信息 讯飞星火V3.5(免费申请)
     {
         sparkClient.appid = "2371074e";
         sparkClient.apiKey = "c696f96538ae23009dee056806295cb4";
