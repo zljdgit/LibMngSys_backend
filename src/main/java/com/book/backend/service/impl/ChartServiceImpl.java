@@ -45,6 +45,7 @@ public class ChartServiceImpl extends ServiceImpl<ChartMapper, Chart>
     @Resource
     private UserInterfaceInfoServiceImpl userInterfaceInfoService;
 
+    // AI智能分析
     @Override
     public R<BiResponse> genChartByAi(MultipartFile multipartFile, GenChartByAiRequest genChartByAiRequest) {
         String name = genChartByAiRequest.getName();
