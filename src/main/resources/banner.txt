@@ -1,0 +1,4 @@
+by 赵林均
+前端地址: https://github.com/zljdgit/LibMngSys
+后端地址: https://github.com/zljdgit/LibMngSys_backend
+Knife4j后端接口在线调试地址: http://localhost:8889/api/doc.html
