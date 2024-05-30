@@ -2,9 +2,6 @@ package com.book.backend.manager.constant;
 
 /**
  * SparkApiVersion
- *
- * @author briqt
- * @date 2023/8/31
  */
 public enum SparkApiVersion {
 
@@ -19,7 +16,7 @@ public enum SparkApiVersion {
     V2_0("v2.1", "https://spark-api.xf-yun.com/v2.1/chat", "generalv2"),
 
     /**
-     * 3.0版本
+     * 3.5版本
      */
     V3_0("v3.1", "https://spark-api.xf-yun.com/v3.5/chat", "generalv3"),
     ;
