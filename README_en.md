@@ -2,7 +2,9 @@
 
 >作者：[Linjun Zhao](https://luoye6.github.io/)
 >
->[Github Homepage](https://github.com/)
+>[Front end address](https://github.com/zljdgit/LibMngSys)
+>
+>[Backend address](https://github.com/zljdgit/LibMngSys_backend)
 
 Language：**[English](README_en.md)**| **[中文](README.md).**
 

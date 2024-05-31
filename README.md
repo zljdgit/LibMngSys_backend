@@ -2,7 +2,9 @@
 
 >作者：[赵林均]
 >
->[GitHub主页](https://github.com/)
+>[前端地址](https://github.com/zljdgit/LibMngSys)
+> 
+>[后端地址](https://github.com/zljdgit/LibMngSys_backend)
 
 Language：**[English](README_en.md)**| **[中文](README.md).**
 
